@@ -1,0 +1,39 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.construccion{
+    display: block;
+    background-color: black;
+    width: 1200px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.construccion .cabecera{
+    display: block;
+    margin: auto;
+}
+
+.construccion .construccion{
+    margin: auto;  
+    width: 800px;
+    padding-top: 70px;
+}
+
+.construccion .boton{
+    text-align: center;
+}
+
+.construccion button{
+    border-color: crimson;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    text-align: auto;
+    padding: 5px 50px ;
+}
+
+
+

@@ -1,0 +1,202 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    width: auto;
+}
+
+body{    
+    text-align: center;
+    background-color: black;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 1200px;
+}
+
+nav, header, section, aside, footer, article, .menu{    
+    display: block;
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+}
+
+div{
+    background-color: white;
+}
+
+.logo{
+    width: 1190px;
+    height: 50px;
+    padding: 0%;
+    margin-bottom: 50px;
+    border: 0%;
+    text-align: center;
+}
+
+.menu{ 
+    padding: 30px 0px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.menu button{
+    border-color: rgb(145, 2, 30) ;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 13px 20px;
+    margin: 15px;
+    display: inline-block;
+}
+
+.seccion{
+    width: 700px;
+    float: left;   
+    padding-left: 55px;
+    margin: 0%;
+}
+   
+.links{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 30px;
+    padding-bottom: 5px;
+    color: black;
+}
+
+time{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 20px;
+    margin-top: 5px;
+    
+}
+
+img{
+    float: left;
+    padding: 20px;
+    padding-left: 5px;
+    margin: 0px;
+}
+
+article{
+    text-align: left;
+    border: double;
+    background-color: rgb(202, 202, 202);
+    width: 750px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 5px;
+}
+
+article .imagenes{
+    width: 250px;
+    height: 180px;
+}
+
+article .parrafo{
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    color: black;
+}
+
+article .comentarios{
+    text-align: right;
+    padding: 0px 20px ; 
+    border: rgb(202, 202, 202);
+    background-color: rgb(202, 202, 202);
+    font-size: 10px;
+    font-style:italic;    
+}
+
+.seccion button{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    padding: 3px 20px;
+    background-color: white;
+    font-style: unset;
+    font-size: 12px;
+}
+
+h3{
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+
+.columna ul{
+    list-style: square;
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 60px;    
+}
+
+.columna li{
+    list-style: square;
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 20px;    
+}
+
+.columna a{ 
+    text-decoration: none;
+    color: black;
+}
+
+.columna{
+    float: right;
+    padding:10px 100px;
+}
+
+#ultimo{
+    clear: both;
+    padding-top: 100px;
+}
+
+a .politica{
+    border-color: grey ;
+    background-color: white;
+    color: black;
+}
+
+a .economia{
+    border-color: grey ;
+    background-color: white;
+    color: black;
+}
+
+a .tecnologia{
+    border-color: grey ;
+    background-color: white;
+    color: black;
+}
+
+a .horoscopo{
+    border-color: grey ;
+    background-color: white;
+    color: black;
+}
+
+a .sociedad{
+    border-color: grey ;
+    background-color: white;
+    color: black;
+}
+
+a .deportes{
+    border-color: grey ;
+    background-color: white;
+    color: black;
+}
+
+a .farandula{
+    border-color: grey ;
+    background-color: white;
+    color: black;
+}
